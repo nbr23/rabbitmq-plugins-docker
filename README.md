@@ -1,1 +1,1 @@
-# rabbitmq-management-lvc-docker
+# rabbitmq-plugins-docker
